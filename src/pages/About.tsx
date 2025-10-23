@@ -18,10 +18,10 @@ export default function About() {
             <h2 className="text-3xl font-bold text-[#3E2723] mb-6">A Family Legacy Built on Trust</h2>
             <div className="space-y-4 text-gray-700 leading-relaxed">
               <p>
-                Our story began on the streets of Rewa, where our father started selling sarees with nothing but dedication
-                and a dream. What he built through years of hard work and customer relationships became the foundation of
-                Shyamasaree. For the past 15 years, his sons have carried forward this legacy, transforming the street-side
-                business into an authorized wholesale dealer for India's most prestigious saree brands.
+                Our story began in 1994 on the streets of Rewa, where our father started selling sarees with nothing but dedication
+                and a dream. What he built through 30+ years of hard work and customer relationships became the foundation of
+                Shyamasaree. His sons have carried forward this legacy, transforming the street-side business into an authorized
+                wholesale dealer for India's most prestigious saree brands.
               </p>
               <p>
                 Today, we partner with premium brands like Kayan Silks, Dhanlaxmi, Rekhraj Sarees, Varni, Vijay Laxmi,
@@ -42,7 +42,7 @@ export default function About() {
             <h3 className="text-2xl font-bold mb-6">Our Journey in Numbers</h3>
             <div className="space-y-6">
               <div>
-                <div className="text-5xl font-bold mb-2">15+</div>
+                <div className="text-5xl font-bold mb-2">30+</div>
                 <p className="text-[#FFF8DC]">Years of Trust & Excellence</p>
               </div>
               <div>
@@ -110,7 +110,7 @@ export default function About() {
           <h2 className="text-3xl font-bold mb-6">Why Choose Shyamasaree?</h2>
           <div className="max-w-3xl mx-auto space-y-4 text-[#FFF8DC]">
             <p className="text-lg">
-              With 15+ years of experience in the saree industry, we understand what makes a saree truly special.
+              With 30+ years of experience in the saree industry, we understand what makes a saree truly special.
               As an authorized wholesale dealer for India's top brands like Kayan Silks, Dhanlaxmi, Rekhraj Sarees,
               Varni, Vijay Laxmi, Chechani Sarees, and Ujala Fashion, we bring you access to premium collections
               at competitive wholesale prices.
@@ -118,7 +118,7 @@ export default function About() {
             <p className="text-lg">
               When you shop with Shyamasaree, you're not just buying a saree. You're getting authentic products
               from trusted brands, supporting traditional craftsmanship, and becoming part of a family that has
-              been serving customers with dedication and integrity for over 15 years.
+              been serving customers with dedication and integrity for over 30 years.
             </p>
           </div>
         </div>

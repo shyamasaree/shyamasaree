@@ -4,6 +4,9 @@ import Header from './components/Header';
 import Footer from './components/Footer';
 import WhatsAppWidget from './components/WhatsAppWidget';
 import SocialProof from './components/SocialProof';
+import ScrollToTop from './components/ScrollToTop';
+import BackToTop from './components/BackToTop';
+import { usePageTracking } from './hooks/useAnalytics';
 import Home from './pages/Home';
 import Products from './pages/Products';
 import ProductDetail from './pages/ProductDetail';
@@ -31,10 +34,18 @@ import Login from './pages/Login';
 import Signup from './pages/Signup';
 import NotFound from './pages/NotFound';
 
+// Analytics wrapper component
+function AnalyticsWrapper({ children }: { children: React.ReactNode }) {
+  usePageTracking();
+  return <>{children}</>;
+}
+
 function App() {
   return (
     <Router>
-      <div className="min-h-screen flex flex-col">
+      <AnalyticsWrapper>
+        <ScrollToTop />
+        <div className="min-h-screen flex flex-col">
         <Header />
         <main className="flex-1">
           <Routes>
@@ -71,6 +82,9 @@ function App() {
         {/* WhatsApp Widget */}
         <WhatsAppWidget />
 
+        {/* Back to Top Button */}
+        <BackToTop />
+
         {/* Social Proof Notifications */}
         <SocialProof />
 
@@ -98,7 +112,8 @@ function App() {
             },
           }}
         />
-      </div>
+        </div>
+      </AnalyticsWrapper>
     </Router>
   );
 }

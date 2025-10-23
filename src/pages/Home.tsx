@@ -19,7 +19,7 @@ export default function Home() {
         <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-full flex items-center py-16 md:py-0">
           <div className="text-center w-full">
             <div className="inline-block bg-[#D4AF37]/20 px-4 py-2 rounded-full border border-[#D4AF37] mb-4 md:mb-6">
-              <span className="text-[#FFF8DC] text-sm font-medium">15 Years of Trust, Now Online</span>
+              <span className="text-[#FFF8DC] text-sm font-medium">30+ Years of Trust, Now Online</span>
             </div>
 
             <h1 className="text-3xl sm:text-4xl md:text-6xl font-bold text-[#FFF8DC] mb-4 md:mb-6 leading-tight">
@@ -49,7 +49,7 @@ export default function Home() {
             <div className="flex flex-wrap items-center justify-center gap-6 text-[#FFF8DC]">
               <div className="flex items-center space-x-2">
                 <Shield size={20} className="text-[#D4AF37]" />
-                <span className="text-sm">15+ Years Experience</span>
+                <span className="text-sm">30+ Years Experience</span>
               </div>
               <div className="flex items-center space-x-2">
                 <Star size={20} className="text-[#D4AF37]" />
@@ -144,7 +144,7 @@ export default function Home() {
                 <Award className="text-[#8B0000]" size={32} />
               </div>
               <h3 className="text-[#3E2723] font-bold text-base mb-1">Verified Dealer</h3>
-              <p className="text-gray-600 text-xs">15+ years trust</p>
+              <p className="text-gray-600 text-xs">30+ years trust</p>
             </div>
           </div>
         </div>
@@ -188,7 +188,7 @@ export default function Home() {
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
             <div className="text-center">
               <div className="bg-[#D4AF37] w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4">
-                <span className="text-[#3E2723] text-2xl font-bold">15+</span>
+                <span className="text-[#3E2723] text-2xl font-bold">30+</span>
               </div>
               <h3 className="text-xl font-bold mb-2">Years Expertise</h3>
               <p className="text-[#FFF8DC]/80">Family business with deep roots in saree craftsmanship</p>
@@ -234,7 +234,7 @@ export default function Home() {
             {
               name: 'Anjali Mehta',
               location: 'Delhi',
-              review: 'Amazing collection and genuine products. The 15 years of experience really shows in their curation.',
+              review: 'Amazing collection and genuine products. The 30+ years of experience really shows in their curation.',
               rating: 5
             },
             {

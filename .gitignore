@@ -27,3 +27,10 @@ docs/
 .claude/
 *.md
 !README.md
+
+# Sensitive business data - pricing, bills, inventory
+scripts/
+bills/
+inventory/
+*pricing*
+*bills*

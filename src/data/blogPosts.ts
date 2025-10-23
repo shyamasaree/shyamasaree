@@ -27,7 +27,7 @@ export const blogPosts: BlogPost[] = [
     content: `
 # How to Choose the Perfect Saree for Your Body Type
 
-Choosing the right saree can transform your entire look. With 15+ years of experience in the saree industry, we've helped thousands of women find their perfect match. Here's our expert guide.
+Choosing the right saree can transform your entire look. With 30+ years of experience in the saree industry, we've helped thousands of women find their perfect match. Here's our expert guide.
 
 ## For Petite Body Types
 
@@ -65,7 +65,7 @@ The right draping style makes all the difference:
 
 ## Our Recommendation
 
-Visit our collection at Shyamasaree where we curate sarees from 8+ premium brands. Our 15 years of experience means we select only trending, authentic products through detailed market analysis.
+Visit our collection at Shyamasaree where we curate sarees from 8+ premium brands. Our 30+ years of experience means we select only trending, authentic products through detailed market analysis.
 
 **Need help choosing?** Call us at +91 62608 43969 or browse our categorized collections online.
     `
@@ -153,7 +153,7 @@ Both Banarasi and Kanjivaram sarees represent the pinnacle of Indian textile art
 
 ## Our Collection
 
-At Shyamasaree, we're authorized dealers for premium brands offering both Banarasi and Kanjivaram sarees. Every piece is authenticated and curated based on 15+ years of industry expertise.
+At Shyamasaree, we're authorized dealers for premium brands offering both Banarasi and Kanjivaram sarees. Every piece is authenticated and curated based on 30+ years of industry expertise.
 
 **Explore our collection:** Browse online or call +91 62608 43969 for personalized recommendations.
     `
@@ -333,7 +333,7 @@ At Shyamasaree, we offer sarees from 8+ premium brands suitable for every drapin
     content: `
 # Complete Saree Care Guide: How to Store and Maintain Your Precious Sarees
 
-With 15+ years in the saree business, we've learned exactly how to preserve these beautiful garments. Follow our professional care guide.
+With 30+ years in the saree business, we've learned exactly how to preserve these beautiful garments. Follow our professional care guide.
 
 ## Storage Guidelines by Fabric Type
 
@@ -494,7 +494,7 @@ Keep these items handy:
 6. Portable steamer
 7. Lint roller
 
-## Professional Tips from 15+ Years Experience
+## Professional Tips from 30+ Years Experience
 
 1. **Never store sarees in attics or basements** - temperature fluctuations damage fabric
 2. **Invest in good storage** - it's cheaper than replacing damaged sarees
@@ -536,7 +536,7 @@ At Shyamasaree, every saree comes with a care label and our expert guidance. As 
     content: `
 # Ultimate Wedding Saree Shopping Guide: What to Buy for Different Functions
 
-Planning your wedding trousseau or attending multiple ceremonies? Our 15 years of experience helping brides and wedding guests means we know exactly what works for each function.
+Planning your wedding trousseau or attending multiple ceremonies? Our 30+ years of experience helping brides and wedding guests means we know exactly what works for each function.
 
 ## For the Bride: Complete Wedding Trousseau
 
@@ -767,7 +767,7 @@ Planning your wedding trousseau or attending multiple ceremonies? Our 15 years o
 
 ## Why Shop at Shyamasaree for Wedding Sarees?
 
-✅ **15+ Years Experience** - We understand wedding trousseau needs
+✅ **30+ Years Experience** - We understand wedding trousseau needs
 
 ✅ **8+ Premium Brands** - Authorized dealer for Kayan Silks, Dhanlaxmi, Rekhraj, and more
 

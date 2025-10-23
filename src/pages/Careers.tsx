@@ -96,7 +96,7 @@ export default function Careers() {
               </div>
               <h3 className="text-xl font-bold text-[#3E2723] mb-3">Growth Opportunities</h3>
               <p className="text-gray-600 text-sm">
-                15+ years in business with continuous expansion. Grow your career with us.
+                30+ years in business with continuous expansion. Grow your career with us.
               </p>
             </div>
 

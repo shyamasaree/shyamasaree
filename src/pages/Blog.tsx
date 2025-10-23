@@ -17,7 +17,7 @@ export default function Blog() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h1 className="text-5xl font-bold mb-4">Saree Knowledge Hub</h1>
           <p className="text-xl text-[#FFF8DC]/80 max-w-3xl mx-auto">
-            Expert guides, styling tips, and everything you need to know about sarees - from our 15+ years of experience
+            Expert guides, styling tips, and everything you need to know about sarees - from our 30+ years of experience
           </p>
         </div>
       </div>
@@ -116,7 +116,7 @@ export default function Blog() {
         <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h2 className="text-3xl font-bold mb-4">Have Questions About Sarees?</h2>
           <p className="text-[#FFF8DC]/90 mb-6">
-            Our team with 15+ years of experience is here to help you choose the perfect saree
+            Our team with 30+ years of experience is here to help you choose the perfect saree
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link

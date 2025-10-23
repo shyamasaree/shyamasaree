@@ -203,7 +203,7 @@ export default function BlogPost() {
         <div className="mt-12 bg-gradient-to-r from-[#8B0000] to-[#6B0000] rounded-lg p-8 text-white text-center">
           <h3 className="text-2xl font-bold mb-4">Ready to Shop?</h3>
           <p className="text-[#FFF8DC]/90 mb-6 max-w-2xl mx-auto">
-            Explore our curated collection from 8+ premium brands. 15+ years of expertise in authentic, trending sarees.
+            Explore our curated collection from 8+ premium brands. 30+ years of expertise in authentic, trending sarees.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link

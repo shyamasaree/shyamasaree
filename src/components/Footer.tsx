@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom';
-import { Facebook, Instagram, MessageCircle } from 'lucide-react';
+import { Facebook, Instagram, MessageCircle, Linkedin, Youtube } from 'lucide-react';
 
 export default function Footer() {
   return (
@@ -12,16 +12,22 @@ export default function Footer() {
               <span className="text-[#D4AF37]">SAREE</span>
             </div>
             <p className="text-sm mb-4 text-[#FFF8DC]/80">
-              15+ years of trust as an authorized dealer for India's top saree brands
+              30+ years of trust as an authorized dealer for India's top saree brands
             </p>
             <div className="flex space-x-4 justify-center md:justify-start">
-              <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" className="hover:text-[#D4AF37] transition-colors">
+              <a href="https://www.instagram.com/shayamasaree/" target="_blank" rel="noopener noreferrer" className="hover:text-[#D4AF37] transition-colors" aria-label="Instagram">
                 <Instagram size={20} />
               </a>
-              <a href="https://facebook.com" target="_blank" rel="noopener noreferrer" className="hover:text-[#D4AF37] transition-colors">
+              <a href="https://www.facebook.com/profile.php?id=61582879821496" target="_blank" rel="noopener noreferrer" className="hover:text-[#D4AF37] transition-colors" aria-label="Facebook">
                 <Facebook size={20} />
               </a>
-              <a href="https://wa.me/916260843969" target="_blank" rel="noopener noreferrer" className="hover:text-[#D4AF37] transition-colors">
+              <a href="https://www.linkedin.com/in/shyama-saree-408436390/" target="_blank" rel="noopener noreferrer" className="hover:text-[#D4AF37] transition-colors" aria-label="LinkedIn">
+                <Linkedin size={20} />
+              </a>
+              <a href="https://www.youtube.com/@ShyamaSaree" target="_blank" rel="noopener noreferrer" className="hover:text-[#D4AF37] transition-colors" aria-label="YouTube">
+                <Youtube size={20} />
+              </a>
+              <a href="https://wa.me/916260843969" target="_blank" rel="noopener noreferrer" className="hover:text-[#D4AF37] transition-colors" aria-label="WhatsApp">
                 <MessageCircle size={20} />
               </a>
             </div>

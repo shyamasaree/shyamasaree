@@ -99,7 +99,7 @@ export default function BulkOrders() {
               <div className="bg-[#FFF8DC] w-20 h-20 rounded-full flex items-center justify-center mx-auto mb-4">
                 <TrendingUp className="text-[#8B0000]" size={40} />
               </div>
-              <h3 className="text-xl font-bold text-[#3E2723] mb-3">15+ Years Experience</h3>
+              <h3 className="text-xl font-bold text-[#3E2723] mb-3">30+ Years Experience</h3>
               <p className="text-gray-600 text-sm">
                 Trusted wholesale partner with deep industry knowledge and reliable service
               </p>
