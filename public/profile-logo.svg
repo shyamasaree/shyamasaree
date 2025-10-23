@@ -1,0 +1,72 @@
+<svg width="1000" height="1000" viewBox="0 0 1000 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle - maroon -->
+  <circle cx="500" cy="500" r="500" fill="#8B0000"/>
+
+  <!-- Outer gold ring -->
+  <circle cx="500" cy="500" r="480" fill="none" stroke="#D4AF37" stroke-width="15"/>
+  <circle cx="500" cy="500" r="450" fill="none" stroke="#D4AF37" stroke-width="8"/>
+
+  <!-- Inner decorative circle with dots -->
+  <circle cx="500" cy="500" r="420" fill="none" stroke="#D4AF37" stroke-width="2"/>
+
+  <!-- Decorative dots around the circle (12 dots like clock positions) -->
+  <circle cx="500" cy="80" r="20" fill="#D4AF37"/>
+  <circle cx="683" cy="133" r="20" fill="#D4AF37"/>
+  <circle cx="817" cy="317" r="20" fill="#D4AF37"/>
+  <circle cx="870" cy="500" r="20" fill="#D4AF37"/>
+  <circle cx="817" cy="683" r="20" fill="#D4AF37"/>
+  <circle cx="683" cy="867" r="20" fill="#D4AF37"/>
+  <circle cx="500" cy="920" r="20" fill="#D4AF37"/>
+  <circle cx="317" cy="867" r="20" fill="#D4AF37"/>
+  <circle cx="183" cy="683" r="20" fill="#D4AF37"/>
+  <circle cx="130" cy="500" r="20" fill="#D4AF37"/>
+  <circle cx="183" cy="317" r="20" fill="#D4AF37"/>
+  <circle cx="317" cy="133" r="20" fill="#D4AF37"/>
+
+  <!-- Brand name - Shyama -->
+  <text
+    x="500"
+    y="480"
+    font-family="'Playfair Display', Georgia, serif"
+    font-size="140"
+    font-weight="700"
+    fill="#FFF8DC"
+    text-anchor="middle"
+    letter-spacing="8"
+  >
+    Shyama
+  </text>
+
+  <!-- Small decorative elements under Shyama -->
+  <circle cx="420" cy="505" r="8" fill="#D4AF37"/>
+  <circle cx="580" cy="505" r="8" fill="#D4AF37"/>
+
+  <!-- Brand name - SAREE -->
+  <text
+    x="500"
+    y="580"
+    font-family="'Playfair Display', Georgia, serif"
+    font-size="100"
+    font-weight="600"
+    fill="#D4AF37"
+    text-anchor="middle"
+    letter-spacing="20"
+  >
+    SAREE
+  </text>
+
+  <!-- Optional tagline at bottom (remove if too cluttered) -->
+  <text
+    x="500"
+    y="680"
+    font-family="Arial, sans-serif"
+    font-size="32"
+    font-weight="400"
+    fill="#FFF8DC"
+    text-anchor="middle"
+    letter-spacing="8"
+    opacity="0.7"
+  >
+    EST. 2009
+  </text>
+</svg>
